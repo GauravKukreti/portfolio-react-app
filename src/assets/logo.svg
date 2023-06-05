@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@400;700');
+</style>
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5023BB">
+        <animate attributeName="stop-color" values="#5023BB; #F5508C; #5023BB" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#F5508C">
+        <animate attributeName="stop-color" values="#F5508C; #5023BB; #F5508C" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="100%" height="100%" fill="transparent"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Caveat, cursive" font-size="48" font-weight="bold" fill="url(#gradient)">
+    GK
+  </text>
+</svg>
