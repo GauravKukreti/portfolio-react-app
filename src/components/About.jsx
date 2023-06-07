@@ -54,7 +54,7 @@ const About = () => {
 									LinkedIn <FaLinkedin size={40} className="mx-4" />
 								</a>
 								<a
-									href="https://drive.google.com/file/d/1yqX1NH6WEu049ontKUjN-3a7WkUQmJiE/view?usp=sharing"
+									href="https://drive.google.com/drive/folders/1n0nx7VFUgS6JOALm3JWkF-uhh_Rm6o2n?usp=sharing"
 									target="_blank"
 									className=" flex flex-row pb-3 mb-3"
 								>
