@@ -1,3 +1,9 @@
 ## <strong>"React-Tailwind Portfolio"</strong>
 
-A dynamic and visually appealing portfolio website built using the powerful combination of React and Tailwind CSS. This project showcases my skills, projects, and achievements in an elegant and modern design. With smooth transitions and responsive layouts, it offers an optimal user experience across various devices. The integration of React allows for easy component-based development, while Tailwind CSS ensures efficient styling and customization. This portfolio is a reflection of my expertise and creativity, designed to leave a lasting impression on visitors.
+A dynamic and visually appealing portfolio website built using the powerful combination of <b style='color:#0D6D8C'>React</b> and <b style='color:#0D6D8C'>Tailwind CSS</b>. With smooth transitions and responsive layouts, it offers an optimal user experience across various devices. The integration of React allows for easy component-based development, while Tailwind CSS ensures efficient styling and customization.
+
+<hr>
+
+##
+
+<img src='./src/assets/projects/portfolio.png' alt='portfolio'>
