@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-react-app/static/css/main.31247820.css",
+    "main.js": "/portfolio-react-app/static/js/main.abc7739f.js",
+    "static/media/lms.png": "/portfolio-react-app/static/media/lms.11710afaea55bcc35f3c.png",
+    "static/media/travel.png": "/portfolio-react-app/static/media/travel.90c6e9ea70899dcdbe8a.png",
+    "static/media/cpp.png": "/portfolio-react-app/static/media/cpp.666af1b3598c92045b63.png",
+    "static/media/portfolio.png": "/portfolio-react-app/static/media/portfolio.7da57d8f36a46fab82a4.png",
+    "static/media/react.png": "/portfolio-react-app/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/tic-tac-toe.png": "/portfolio-react-app/static/media/tic-tac-toe.8c318458cbbe3c91dfd6.png",
+    "static/media/visualizer.png": "/portfolio-react-app/static/media/visualizer.5712436eb1f11f53bfb3.png",
+    "static/media/calc.png": "/portfolio-react-app/static/media/calc.58694ceb7b23ec95480c.png",
+    "static/media/github.png": "/portfolio-react-app/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/portfolio-react-app/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio-react-app/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio-react-app/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/php.png": "/portfolio-react-app/static/media/php.0a564540c19c7189202e.png",
+    "static/media/logo.svg": "/portfolio-react-app/static/media/logo.b385b02d76c2d5696ef7657fcf6f81e9.svg",
+    "index.html": "/portfolio-react-app/index.html",
+    "main.31247820.css.map": "/portfolio-react-app/static/css/main.31247820.css.map",
+    "main.abc7739f.js.map": "/portfolio-react-app/static/js/main.abc7739f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31247820.css",
+    "static/js/main.abc7739f.js"
+  ]
+}
