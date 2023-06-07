@@ -105,21 +105,21 @@ const Navbar = () => {
 							GitHub <FaGithub size={30} />
 						</a>
 					</li>
-					<li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]">
-						<Link to="contact" smooth={true} duration={500}>
+					<Link to="contact" smooth={true} duration={500}>
+						<li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]">
 							<a
 								href="/"
 								className="flex justify-between items-center w-full text-gray-300"
 							>
 								Email <HiOutlineMail size={30} />
 							</a>
-						</Link>
-					</li>
+						</li>
+					</Link>
 					<li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
 						<a
 							href="https://drive.google.com/drive/folders/1n0nx7VFUgS6JOALm3JWkF-uhh_Rm6o2n?usp=sharing"
 							target="_blank"
-							className="flex justify-between items-center w-full text-gray-300"
+							className="flex justify-between mx-auto items-center w-full text-gray-300"
 						>
 							Resume <BsFillPersonLinesFill size={30} />
 						</a>
