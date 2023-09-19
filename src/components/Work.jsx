@@ -3,7 +3,7 @@ import LMS from "../assets/projects/lms.png";
 import travel from "../assets/projects/travel.png";
 import visual from "../assets/projects/visualizer.png";
 import tic from "../assets/projects/tic-tac-toe.png";
-import calc from "../assets/projects/calc.png";
+import shakahar from "../assets/projects/shakahar.png";
 import portfolio from "../assets/projects/portfolio.png";
 
 const Work = () => {
@@ -21,13 +21,41 @@ const Work = () => {
 				<div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
 					{/* Grid Item */}
 					<div
+						style={{ backgroundImage: `url(${shakahar})` }}
+						className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
+					>
+						{/* Hover Effects */}
+						<div className="opacity-0 group-hover:opacity-100 text-center">
+							<span className="text-2xl font-bold text-white tracking-wider">
+								E-Commerce Website (MERN Stack)
+							</span>
+							<div className="pt-8 text-center">
+								<a href="#">
+									<button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+										Demo
+									</button>
+								</a>
+								<a
+									href="https://github.com/GauravKukreti/shakahar-react"
+									target="_blank"
+								>
+									<button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+										Code
+									</button>
+								</a>
+							</div>
+						</div>
+					</div>
+
+					{/* Grid Item */}
+					<div
 						style={{ backgroundImage: `url(${portfolio})` }}
 						className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
 					>
 						{/* Hover Effects */}
-						<div className="opacity-0 group-hover:opacity-100">
+						<div className="opacity-0 group-hover:opacity-100 text-center">
 							<span className="text-2xl font-bold text-white tracking-wider">
-								Portfolio
+								Portfolio (React and TailWind CSS)
 							</span>
 							<div className="pt-8 text-center">
 								<a href="#">
@@ -53,7 +81,7 @@ const Work = () => {
 						className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
 					>
 						{/* Hover Effects */}
-						<div className="opacity-0 group-hover:opacity-100">
+						<div className="opacity-0 group-hover:opacity-100 text-center">
 							<span className="text-2xl font-bold text-white tracking-wider">
 								Library Management System
 							</span>
@@ -81,7 +109,7 @@ const Work = () => {
 						className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
 					>
 						{/* Hover Effects */}
-						<div className="opacity-0 group-hover:opacity-100">
+						<div className="opacity-0 group-hover:opacity-100 text-center">
 							<span className="text-2xl font-bold text-white tracking-wider">
 								Travel Website (REACT)
 							</span>
@@ -149,34 +177,6 @@ const Work = () => {
 								</a>
 								<a
 									href="https://github.com/GauravKukreti/Tic-Tac-Toe"
-									target="_blank"
-								>
-									<button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-										Code
-									</button>
-								</a>
-							</div>
-						</div>
-					</div>
-
-					{/* Grid Item */}
-					<div
-						style={{ backgroundImage: `url(${calc})` }}
-						className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
-					>
-						{/* Hover Effects */}
-						<div className="opacity-0 group-hover:opacity-100">
-							<span className="text-2xl font-bold text-white tracking-wider">
-								Calculator
-							</span>
-							<div className="pt-8 text-center">
-								<a href="#">
-									<button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-										Demo
-									</button>
-								</a>
-								<a
-									href="https://github.com/GauravKukreti/Simple-Calculator"
 									target="_blank"
 								>
 									<button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">

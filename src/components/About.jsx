@@ -22,8 +22,9 @@ const About = () => {
 						<p>
 							I specialize in <b>C++ programming</b> and possess in-depth
 							knowledge of its core concepts and best practices. In addition, my
-							skill set extends to <b>full-stack development</b>, allowing me to
-							handle both the frontend and backend aspects of web applications
+							skill set extends to <b>Full-Stack Development (MERN)</b>,
+							allowing me to handle both the frontend and backend aspects of web
+							applications
 						</p>
 					</div>
 				</div>
